@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/portfolio_site*portfolio_site": ["./src/*"]
+    }
+  }
+}
