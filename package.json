@@ -25,5 +25,8 @@
   },
   "scripts": {
   "start": "node_modules/next/dist/bin/next start -p $PORT"
+  },
+  "engines": {
+	   "node": "16.X"
   }
 }
